@@ -13,6 +13,7 @@
 		090E97B52790576300E280A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 090E97B32790576300E280A6 /* Main.storyboard */; };
 		090E97B72790576400E280A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 090E97B62790576400E280A6 /* Assets.xcassets */; };
 		090E97BA2790576400E280A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 090E97B82790576400E280A6 /* LaunchScreen.storyboard */; };
+		090E97C227905FBC00E280A6 /* AnimalsScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 090E97C127905FBC00E280A6 /* AnimalsScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		090E97B62790576400E280A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		090E97B92790576400E280A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		090E97BB2790576400E280A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		090E97C127905FBC00E280A6 /* AnimalsScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalsScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				090E97AD2790576300E280A6 /* AppDelegate.swift */,
 				090E97AF2790576300E280A6 /* SceneDelegate.swift */,
 				090E97B12790576300E280A6 /* ViewController.swift */,
+				090E97C127905FBC00E280A6 /* AnimalsScreenViewController.swift */,
 				090E97B32790576300E280A6 /* Main.storyboard */,
 				090E97B62790576400E280A6 /* Assets.xcassets */,
 				090E97B82790576400E280A6 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				090E97C227905FBC00E280A6 /* AnimalsScreenViewController.swift in Sources */,
 				090E97B22790576300E280A6 /* ViewController.swift in Sources */,
 				090E97AE2790576300E280A6 /* AppDelegate.swift in Sources */,
 				090E97B02790576300E280A6 /* SceneDelegate.swift in Sources */,
